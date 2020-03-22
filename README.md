@@ -8,5 +8,3 @@ we can use this project to scrape some data from the website
 
 打印出相应的答案是很正确的事情，
 
-
-
