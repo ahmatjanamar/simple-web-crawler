@@ -9,4 +9,7 @@ we can use this project to scrape some data from the website
 打印出相应的答案是很正确的事情，
 
 
+工作招聘信息的获取爬取 ： https://github.com/xianyunyh/spider_job
+
+
 
